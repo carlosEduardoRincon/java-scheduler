@@ -33,7 +33,7 @@ public class Scheduler {
             for (char character : currentTask.getTask().toCharArray()) {
                 if (totalTimeTask < timeQuantum) {
                     if (counter >= currentTask.getLastIndex()) {
-                        int taskTime = returnTaskTime(character, false);
+                        int taskTime = returnTaskTime(character, true);
                         totalTimeTask += taskTime;
                         totalExecutionTime += taskTime;
 
