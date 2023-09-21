@@ -1,0 +1,6 @@
+Quantum: 5 segundos
+
+Tarefa finalizada (3): AAABBBCCC
+Tarefa finalizada (1): AAAAABBBDDD
+Tarefa finalizada (2): CCCCCDDDAAA
+Tempo total de execução: 71 segundos
